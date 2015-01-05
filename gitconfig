@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = lilian.bich@gmail.com
+	name = LilianBich
