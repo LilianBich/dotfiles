@@ -44,10 +44,10 @@
 
 [push]
     default = simple
+
 [user]
-    email = lilian.bich@gmail.com
-    name = LilianBich
+email = lilian.bich@gmail.com
+name = Lilian Bich
 
 [branch "master"]
   mergeoptions = --no-edit
-
