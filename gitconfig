@@ -12,9 +12,7 @@
   remote = yellow
 
 [core]
-  editor = subl -n -w
   pager = less -FRSX
-  mergeoptions = --no-edit
 
 [alias]
   co = checkout
@@ -45,7 +43,11 @@
   autocorrect = 1
 
 [push]
-	default = simple
+    default = simple
 [user]
-	email = lilian.bich@gmail.com
-	name = LilianBich
+    email = lilian.bich@gmail.com
+    name = LilianBich
+
+[branch "master"]
+  mergeoptions = --no-edit
+
