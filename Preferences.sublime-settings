@@ -22,8 +22,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"PyV8",
-		"Syntax Highlighting for Sass",
 		"Vintage"
 	],
 	"remember_open_files": false,

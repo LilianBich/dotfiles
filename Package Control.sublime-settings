@@ -2,8 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"PyV8",
-		"Syntax Highlighting for Sass"
 	],
 	"installed_packages":
 	[
