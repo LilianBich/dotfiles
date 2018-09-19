@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -22,6 +22,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"PyV8",
+		"Syntax Highlighting for Sass",
 		"Vintage"
 	],
 	"remember_open_files": false,

@@ -1,22 +1,28 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets",
-    "DocBlockr",
-    "PyV8",
-    "Quick File Move",
-    "Ruby on Rails snippets",
-    "Syntax Highlighting for Sass",
-    "Tomorrow Color Schemes"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"PyV8",
+		"Syntax Highlighting for Sass"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"Package Control",
+		"PyV8",
+		"Quick File Move",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"Tomorrow Color Schemes",
+		"Sass"
+	]
 }
